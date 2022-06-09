@@ -1,0 +1,2 @@
+(this["webpackJsonpcodoozer-core-web"]=this["webpackJsonpcodoozer-core-web"]||[]).push([[9],{139:function(e,o,t){"use strict";t.r(o),o.default=t.p+"static/media/Raleway-SemiBold.243af299.ttf"}}]);
+//# sourceMappingURL=9.03258f6c.chunk.js.map
