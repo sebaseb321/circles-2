@@ -1,0 +1,2 @@
+(this["webpackJsonpcodoozer-core-web"]=this["webpackJsonpcodoozer-core-web"]||[]).push([[5],{138:function(e,o,c){"use strict";c.r(o),o.default=c.p+"static/media/DMSerifDisplay-Regular.ca478f51.ttf"}}]);
+//# sourceMappingURL=5.699c890f.chunk.js.map
